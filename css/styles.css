@@ -1,3 +1,12 @@
 .important {
     font-weight: bold;
 }
+.most-important {
+  font-size: x-large;
+}
+.next-important {
+  font-size: larger;
+}
+h2.oblique {
+  font-style: oblique;
+}
