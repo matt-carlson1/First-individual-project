@@ -7,6 +7,16 @@
 .next-important {
   font-size: larger;
 }
-h2.oblique {
+h2.oblique-center {
   font-style: oblique;
+  text-align: center;
+}
+.box{
+  margin: 75px;
+  border: 2px solid blue;
+  padding: 20px;
+  background-color: rgb(184, 249, 249);
+}
+img {
+  float: ;
 }
